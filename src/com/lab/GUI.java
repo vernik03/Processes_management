@@ -20,7 +20,7 @@ public class GUI extends JFrame {
 
     public GUI() {
 
-        JFrame frame=new JFrame("Пример программы Java");
+        JFrame frame=new JFrame("Процеси, потоки з семафором");
         Box b1=Box.createVerticalBox();
         Box b0=Box.createVerticalBox();
         Box b2=Box.createHorizontalBox();
