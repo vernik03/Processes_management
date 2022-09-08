@@ -1,5 +1,5 @@
 # Processes_management
-Processes management for learning Java course
+Processes management for learning Java course  
 Тема: Управління процесами, потоками (нитками) в критичній секції за допомогою блокуючої змінної (найпростішого семафора)  
 У завданні використовувати програму завдання 1  
 У програмі зробити наступні зміни:
