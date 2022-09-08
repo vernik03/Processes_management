@@ -18,7 +18,6 @@ public class GUI extends JFrame {
 //            super("Процеси, потоки");
 //            super.setBounds(300, 100, 400, 300);
 //            super.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-
 //            Container container = super.getContentPane();
 //            container.setLayout(new GridLayout(3, 1, 2, 10));
 
@@ -55,7 +54,6 @@ public class GUI extends JFrame {
 
             frame.setVisible(true);
 
-//            button1.addActionListener(new Threads());
         }
 
     public class ThreadLeft extends Thread {
