@@ -14,7 +14,7 @@ public class GUI extends JFrame {
     public JButton button_left_start = new JButton("Start!");
     public JButton button_right_start = new JButton("Start!");
     public JButton button_left_stop = new JButton("Stop!");
-    public JButton button_right_stop = new JButton("Stop!!");
+    public JButton button_right_stop = new JButton("Stop!");
 
     public int semafore = 0;
 
